@@ -7,16 +7,16 @@ permalink:        pretty
 
 # Setup
 title:            Dylan Scott Low Y.J.
-tagline:          'Cognitive Science of Language'
+tagline:          "Cognitive Science of Language"
 # The description is used in the meta description tag (_includes/head.html).
 # If you want to use it in the sidebar, uncomment its code under the tagline
 # in _includes/sidebar.html
-description:      'Dylan's academic website.'
+description:      "Dylan's academic website."
 url:              https://dylanscottlow.github.io
 baseurl:          
 
 author:
-  name:           'Dylan Scott Low Y.J.'
+  name:           "Dylan Scott Low Y.J."
   url:            https://dylanscottlow.github.io
 
 paginate:         3

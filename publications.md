@@ -1,11 +1,8 @@
 ---
 layout: page
-title: Research
-order: 1
+title: Publications
+order: 2
 ---
-
-<p class="message">"The postulation of objects as something different from the terms of relationships is a superfluous axiom and consequently a metaphysical 
-hypothesis from which linguistic science will have to be freed." <cite>— Louis Hjelmslev</cite></p>
 
 This page is under construction. Check back soon!
 

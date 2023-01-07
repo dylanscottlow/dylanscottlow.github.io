@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Example content
+# For pinned posts, add the following variable to the post's front matter:
+# pinned: true
 ---
 
 

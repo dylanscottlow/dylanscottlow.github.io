@@ -136,6 +136,12 @@ tbody tr:nth-child(odd) th {
   font-size: 1.25rem;
   font-weight: 300;
 }
+//formerly, lead was used for the site tagline
+.site-tagline {
+  font-size: 1.1rem;
+  font-weight: 300;
+  color: #FFF9FB;
+}
 
 
 /*
@@ -228,6 +234,18 @@ tbody tr:nth-child(odd) th {
 .page-subtitle {
   color: #303030;
   font-family: 'Playfair Display', serif;
+  font-size: 1.5rem;
+  letter-spacing: 0.03em;
+  font-weight: 600;
+  text-align: center;
+  word-wrap: break-word;
+  margin-top: -1.6rem;
+  margin-bottom: 2rem;
+}
+
+.page-subtitle-zhtw {
+  color: #303030;
+  font-family: 'Noto Sans TC', sans-serif;
   font-size: 1.5rem;
   letter-spacing: 0.03em;
   font-weight: 600;

@@ -3,10 +3,20 @@ layout: default
 ---
 
 <div class="page">
-  <h1 class="page-title">{{ page.title }}</h1>
+  <h1 class="page-title"><span class="auto-type-title"></span></h1>
   <div class="hr"></div>
   {{ content }}
 </div>
+
+<script>
+  var typed = new Typed(".auto-type-title", {
+    strings: ["{{ page.title }}"],
+    typeSpeed: 130,
+    backSpeed: 130,
+    loop: false,
+    showCursor: false
+  })
+</script>
 
 <div class="only-mobile alert">
   <a href="#" class="underline">Back to Top &nbsp; <i class="fa fa-arrow-circle-up"></i></a>

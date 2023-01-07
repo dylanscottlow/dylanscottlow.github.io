@@ -7,12 +7,13 @@ html {
 
 @media only screen and (min-width: $laptop-break) {
   html {
-    font-size: 20px;
+    font-size: 19px;
   }
 }
 
 body {
   color: $blackcoffee;
+  text-align: justify;
 }
 
 //hyperlinks

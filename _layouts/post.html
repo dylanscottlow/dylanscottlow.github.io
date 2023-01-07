@@ -3,13 +3,21 @@ layout: default
 ---
 
 <div class="post">
-  <h1 class="post-title">
-    {{ page.title }}
-  </h1>
+  <h1 class="post-title">&#8203;<span class="auto-type-post-title"></span></h1>
   <div class="hr"></div>
   <span class="post-date">{{ page.date | date_to_long_string }}</span>
   {{ content }}
 </div>
+
+<script>
+  var typed = new Typed(".auto-type-post-title", {
+    strings: ["{{ page.title }}"],
+    typeSpeed: 130,
+    backSpeed: 130,
+    loop: false,
+    showCursor: false
+  })
+</script>
 
 <div class="only-mobile alert">
   <a href="#" class="underline">Back to Top &nbsp; <i class="fa fa-arrow-circle-up"></i></a>

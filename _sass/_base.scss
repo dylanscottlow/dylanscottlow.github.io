@@ -12,11 +12,12 @@ html {
 }
 
 body {
-  color: #515151;
+  color: $blackcoffee;
 }
 
+//hyperlinks
 a {
-  color: $blue-link;
+  color: $cerulean;
   text-decoration: none;
 }
 
@@ -38,8 +39,9 @@ p {
   margin-bottom: 1rem;
 }
 
+//tagline
 em a {
-  color: $blue !important;
+  color: $cerulean !important;
 }
 
 em a:hover {

@@ -9,8 +9,8 @@
   text-align: center;
   padding: 2rem 1rem 1rem 1rem;
   color: #818181;
-  background-color: #111;
-  background: linear-gradient(180deg, #222, #111);
+  background-color: #34252F;
+  background: linear-gradient(180deg, #222, #34252F);
 }
 
 @media (min-width: $tablet-break) {
@@ -32,12 +32,12 @@
 
 /* Sidebar links */
 .sidebar a {
-  color: #fff;
+  color: #FFF9FB;
 }
 
 /* About section */
 .sidebar-about h1 {
-  color: #fff;
+  color: #FFF9FB;
   margin-top: 0;
   margin-bottom: 0.5rem;
   line-height: 1.15;
@@ -69,13 +69,13 @@
 
 a.sidebar-nav-item:focus {
   text-decoration: none;
-  color: $blue;
+  color: #58FCEC;
 }
 
 @media (min-width: $tablet-break) {
   a.sidebar-nav-item:hover {
     text-decoration: none;
-    color: $blue;
+    color: #58FCEC;
     -webkit-transition: 0.35s;
     transition: 0.35s;
   }
@@ -97,14 +97,14 @@ a.sidebar-nav-item:focus {
 }
 
 .sidebar-social a:focus {
-  color: $blue;
+  color: #58FCEC;
   text-decoration: none;
 }
 
 @media (min-width: $tablet-break) {
   .sidebar-social a:hover {
     text-decoration: none;
-    color: $blue;
+    color: #58FCEC;
   }
 }
 

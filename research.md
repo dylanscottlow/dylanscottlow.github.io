@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Research
 ---
 
 <p class="message">"The postulation of objects as something different from the terms of relationships is a superfluous axiom and consequently a metaphysical 

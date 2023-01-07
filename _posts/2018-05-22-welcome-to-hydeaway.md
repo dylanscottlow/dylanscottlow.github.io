@@ -6,7 +6,7 @@ pinned: true
 ---
 
 
-<p class="message">Hydeaway is a simple <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> theme for personal websites and blogs that updates the original <a href="https://github.com/poole/hyde" target="_blank">Hyde</a> theme and borrows a little from the 'refreshed' <a href="https://github.com/fongandrew/hydeout" target="_blank">Hydeout</a>.</p>
+ <!--<p class="message">Hydeaway is a simple <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> theme for personal websites and blogs that updates the original <a href="https://github.com/poole/hyde" target="_blank">Hyde</a> theme and borrows a little from the 'refreshed' <a href="https://github.com/fongandrew/hydeout" target="_blank">Hydeout</a>.</p> -->
 
 ### Elegant and Simple
 

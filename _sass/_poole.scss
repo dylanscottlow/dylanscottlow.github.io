@@ -215,13 +215,25 @@ tbody tr:nth-child(odd) th {
   font-family: 'Playfair Display', serif;
   font-size: 2.1rem;
   letter-spacing: 0.03em;
-  font-weight: 900;
+  font-weight: 600;
   text-align: center;
   word-wrap: break-word;
 }
 .page-title,
 .post-title {
   margin-top: 0;
+  margin-bottom: 2rem;
+}
+
+.page-subtitle {
+  color: #303030;
+  font-family: 'Playfair Display', serif;
+  font-size: 1.5rem;
+  letter-spacing: 0.03em;
+  font-weight: 600;
+  text-align: center;
+  word-wrap: break-word;
+  margin-top: -1.6rem;
   margin-bottom: 2rem;
 }
 

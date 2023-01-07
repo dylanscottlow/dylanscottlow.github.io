@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+order: 3
 ---
 
 <p class="message">This is an example page. It can be removed or changed however you see fit. All pages included in the root directory of Hydeaway will be included in the site navigation links. It is recommended to have no more an three pages (links) in the navigation portion of the site.</p>

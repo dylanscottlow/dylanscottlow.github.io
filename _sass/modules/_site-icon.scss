@@ -8,7 +8,7 @@
     border-radius: 50%;
     border: 6px solid #fff;
     text-align: center;
-    background: url(https://placehold.it/175x175);
+    background: url(../../assets/img/profile_pic.jpg);
     background-size: 175px;
     background-repeat: no-repeat;
     margin-bottom: 1rem;
@@ -21,9 +21,9 @@
     line-height: 175px;
   }
 
-  .site-icon:hover {
-    background: url(https://placehold.it/175x175);
-    transition: 0.5s;
-  }
+  //.site-icon:hover {
+  //  background: url(https://placehold.it/175x175);
+  //  transition: 0.5s;
+  //}
 
 }

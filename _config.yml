@@ -11,13 +11,13 @@ tagline:          'Cognitive Science of Language'
 # The description is used in the meta description tag (_includes/head.html).
 # If you want to use it in the sidebar, uncomment its code under the tagline
 # in _includes/sidebar.html
-description:      'A Jekyll theme based on the original Hyde and the refreshed Hydeout.'
-url:              https://jpatrickdevine.github.io/hydeaway
+description:      'Dylan's academic website.'
+url:              https://dylanscottlow.github.io
 baseurl:          
 
 author:
-  name:           'John Devine'
-  url:            https://jpatrickdevine.info
+  name:           'Dylan Scott Low Y.J.'
+  url:            https://dylanscottlow.github.io
 
 paginate:         3
 paginate_path: "/blog/:num/"

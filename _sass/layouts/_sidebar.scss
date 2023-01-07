@@ -48,13 +48,13 @@
 }
 
 .sidebar-about p {
-  margin: 0.5rem 0;
+  margin: 0.3rem 0;
 }
 
 //site title is here
 @media (min-width: $laptop-break) {
   .sidebar-about h1 {
-    font-size: 1.5rem;
+    font-size: 1.45rem;
   }
 }
 
@@ -65,7 +65,7 @@
 .sidebar-nav-item {
   display: block;
   line-height: 1.65;
-  font-size: 1.3rem;
+  font-size: 1.2rem;
 }
 
 a.sidebar-nav-item:focus {

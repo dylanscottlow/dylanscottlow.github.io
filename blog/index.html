@@ -4,25 +4,6 @@ title: Blog
 order: 2
 ---
 
-<div class="blog-feed">
-  <ul class="fa-ul">
-{% for post in site.posts %}
-<li>
-  <a href="{{ site.baseurl }}{{ post.url }}">
-    <span class="fa-li"><i class="fa fa-arrow-circle-left"></i></span>
-  </a>
-  <h2>
-    <a href="{{ site.baseurl }}{{ post.url }}">
-      {{ post.title }}
-    </a>
-  </h2>
-  <span class="post-date">{{ post.date | date_to_long_string }}</span>
-</li>
-{% endfor %}
-</ul>
-</div>
-
-
 <div class="posts">
   {% for post in paginator.posts %}
     {% if post.pinned %}
@@ -30,13 +11,13 @@ order: 2
         <i class="fas fa-thumbtack"></i> &nbsp; Pinned Post 
       </div>
       <div class="post">
-        <h1 class="post-title">
+        <h1 class="post-title-preview">
           <a href="{{ site.baseurl }}{{ post.url }}">
             {{ post.title }}
           </a>
         </h1>
-        <div class="hr"></div>
-        <span class="post-date">{{ post.date | date_to_long_string }}</span>
+        <!-- <div class="hr"></div> -->
+        <span class="post-date-preview">{{ post.date | date_to_long_string }}</span>
           {{ post.content }}
       </div>
       <hr>
@@ -51,14 +32,14 @@ order: 2
         </div>
       {% endif %}
       <div class="post">
-        <h1 class="post-title">
+        <h1 class="post-title-preview">
           <a href="{{ site.baseurl }}{{ post.url }}">
             {{ post.title }}
           </a>
         </h1>
-        <div class="hr"></div>
-        <span class="post-date">{{ post.date | date_to_long_string }}</span>
-          {{ post.content }}
+        <!-- <div class="hr"></div> -->
+        <span class="post-date-preview">{{ post.date | date_to_long_string }}</span>
+          {{ post.excerpt }}
       </div>
       {% if post != paginator.posts.last %}
         <hr>
@@ -83,3 +64,26 @@ order: 2
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
+
+<div>
+<h1 class="post-title">All Posts</h1>
+</div>
+
+<div class="blog-feed">
+  <ul class="fa-ul">
+{% for post in site.posts %}
+<li>
+  <a href="{{ site.baseurl }}{{ post.url }}">
+    <span class="fa-li"><i class="fa fa-arrow-circle-left"></i></span>
+  </a>
+  <h2>
+    <a href="{{ site.baseurl }}{{ post.url }}">
+      {{ post.title }}
+    </a>
+  </h2>
+  <span class="post-date">{{ post.date | date_to_long_string }}</span>
+</li>
+{% endfor %}
+</ul>
+</div>
+

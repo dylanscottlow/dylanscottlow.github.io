@@ -9,8 +9,11 @@
   text-align: center;
   padding: 2rem 1rem 1rem 1rem;
   color: #818181;
-  background-color: $blackcoffee;
-  background: linear-gradient(180deg, #222, $blackcoffee);
+  // background-color: $blackcoffee;
+  // background: linear-gradient(180deg, #222, $blackcoffee);
+  background: url(../../assets/img/gardens_dark.jpg);
+  background-size: cover;
+  background-position: left center;
 }
 
 @media (min-width: $tablet-break) {
@@ -92,7 +95,8 @@ a.sidebar-nav-item:focus {
 }
 
 .sidebar-social a {
-  color: #818181;
+  // color: #818181;
+  color: #d3cece;
   padding: 0 0.45rem;
   font-size: 1.4rem;
 }

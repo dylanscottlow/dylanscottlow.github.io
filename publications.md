@@ -21,3 +21,5 @@ order: 2
 ### Submitted Manuscripts
 
 * <p class="citation-list">Fu, Stephanie Pei-Yun and <b>Dylan Scott Low</b>. (under review). Syntactic OT constraint evaluation is subjective: A study on Mandarin-English Code-mixing across proficiency levels.</p>
+
+* <p class="citation-list"><b>Dylan Scott Low</b>. (under review). Cognitive linguistics meets theoretical neuroscience: The neural recommendation architecture of construction grammar.</p>

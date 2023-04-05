@@ -3,13 +3,15 @@ layout: page
 title: Research
 order: 1
 ---
-
+<!--
 <p class="message">"The postulation of objects as something different from the terms of relationships is a superfluous axiom and consequently a metaphysical 
 hypothesis from which linguistic science will have to be freed." <cite>— Louis Hjelmslev</cite></p>
+-->
 
-Page under construction. Check back soon! In the meantime, here's a preview of what I've written so far.
+Page under construction. Check back soon! <!--In the meantime, here's a preview of what I've written so far.
+-->
 
-### Language, the Mind, and the Brain
+<!--### Language, the Mind, and the Brain
 
 The main theme of my research revolves around the <b>cognitive architecture of language</b>, which I believe to be inherently <b>neuromorphic</b>. That is, mental computations is not just "implemented" by neural processes, but rather, mental processes <b>are</b> neural processes. This is in contrast to most models in theoretical linguistics, which tend to treat linguistic processes at an abstract "symbolic" level distinct from but "implemented" by neural processes. 
 
@@ -18,3 +20,4 @@ Treating linguistic mental processes as neuromorphic is philosophically attracti
 ### Culture: From Brains to Society
 
 A secondary thread of my research revolves around human culture.
+-->

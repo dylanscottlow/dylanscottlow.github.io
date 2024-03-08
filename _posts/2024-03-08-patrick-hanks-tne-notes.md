@@ -17,8 +17,8 @@ title: "Patrick Hanks’ Theory of Norms and Exploitations: Some Personal Notes"
 All grammatical sentences of standard English are also potential grammatical sentences of Singlish. That is, any well-formed standard English sentence (e.g., 1a) can also be judged to be a well-formed Singlish sentence. This is a problem, since it is then easier to distinguish sentences of Singlish (which may be exclusive to Singlish, e.g., 1b) from sentences of standard English but not the other way around — an asymmetry.
 <!--excerpt-->
 
-    1a. *There is a house on the hill over there.* (Standard English or Singlish)
-    1b. *Over there the hill got house.* (Singlish only)
+&emsp;1a. *There is a house on the hill over there.* (Standard English or Singlish)<br>
+&emsp;1b. *Over there the hill got house.* (Singlish only)
 
 However, perhaps attempting to capture the set of all possible grammatical sentences (following Chomsky, 1957) is the wrong approach. As Hanks (2013, p. 7) S remarks, “Linguists who seek to explain all possibilities in a single step have failed, will fail, and are bound to fail.” The solution which Hanks advocates for, then, is to focus on probabilities rather than discrete categorisations of what is grammatical and what is not. This is one of the fundamental ideas underlying Hanks’ Theory of Norms and Exploitations (TNE).
 

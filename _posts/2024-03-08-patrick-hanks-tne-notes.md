@@ -4,13 +4,13 @@ title: "Patrick Hanks’ Theory of Norms and Exploitations: Some Personal Notes"
 # For pinned posts, add the following variable to the post's front matter:
 # pinned: true
 ---
-*Preamble:* The following consists of a summary/personal interpretation of my reading of Chapter 1 “Words and Meanings: The Need for a New Approach” from Patrick Hanks’ monograph *Lexical Analysis: Norms and Exploitations* (2013: <a href="https://direct.mit.edu/books/book/2981/Lexical-AnalysisNorms-and-Exploitations" target="blank">The MIT Press</a>).
+**Preamble:** *The following consists of a summary/personal interpretation of my reading of Chapter 1 “Words and Meanings: The Need for a New Approach” from Patrick Hanks’ monograph **Lexical Analysis: Norms and Exploitations** (2013: <a href="https://direct.mit.edu/books/book/2981/Lexical-AnalysisNorms-and-Exploitations" target="blank">The MIT Press</a>).
 
 Hanks, a lexicographer who worked on the Collins COBUILD dictionaries, presents an interesting corpus-informed theory of language that dispels with binary categories such as grammaticality and replaces them with continuous variables (categories of degree) which can be quantified with the help of native speaker corpora.
 
 I develop an understanding of Hanks’ framework by thinking through a core problem in Singapore English research—how to conceptualise the fuzzy boundary between Singlish and standard English (something I was thinking about after a recent conversation with <a href="https://z-n-huang.github.io/" target="blank">Nick Huang</a> at the National University of Singapore).
 
-I arrive at a tentative conceptualisation of this problem using Hanks’ terms at the end, though by no means is this conclusive. But I think it’s a good first step to build off of. I also end with some interesting quotes from Hanks’ chapter.
+I arrive at a tentative conceptualisation of this problem using Hanks’ terms at the end, though by no means is this conclusive. But I think it’s a good first step to build off of. I also end with some interesting quotes from Hanks’ chapter.*
 
 ---
 

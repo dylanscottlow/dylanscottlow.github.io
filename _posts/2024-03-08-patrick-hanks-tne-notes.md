@@ -5,6 +5,7 @@ title: "Patrick Hanks’ Theory of Norms and Exploitations: Some Personal Notes"
 # pinned: true
 ---
 **Preamble:** *The following consists of a summary/personal interpretation of my reading of Chapter 1 “Words and Meanings: The Need for a New Approach” from Patrick Hanks’ monograph **Lexical Analysis: Norms and Exploitations** (2013: <a href="https://direct.mit.edu/books/book/2981/Lexical-AnalysisNorms-and-Exploitations" target="blank">The MIT Press</a>).*
+
 <!--more-->
 
 *Hanks, a lexicographer who worked on the Collins COBUILD dictionaries, presents an interesting corpus-informed theory of language that dispels with binary categories such as grammaticality and replaces them with continuous variables (categories of degree) which can be quantified with the help of native speaker corpora.*

@@ -38,7 +38,9 @@ Let us return to the anology of leaves blowing in the wind, but replace the leav
 
 Now, this is a naturally-occurring phenomenon. So, imagine we took some of these winged seeds and placed them in the vacuum of space. Now further imagine we were martians scientists with no knowledge of the atmospheric conditions on Earth’s surface, attempting to understand the seed’s physical structure.
 
-![Dipterocarp Winged Seed](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Dipterocarp_Winged_Seed_%28Shorea_sp.%29_%2815866621516%29.jpg/640px-Dipterocarp_Winged_Seed_%28Shorea_sp.%29_%2815866621516%29.jpg)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Dipterocarp_Winged_Seed_%28Shorea_sp.%29_%2815866621516%29.jpg/640px-Dipterocarp_Winged_Seed_%28Shorea_sp.%29_%2815866621516%29.jpg" alt="Dipterocarp Winged Seed" width="450">
+</p>
 A dipterocarp winged seed from Sarawak, Malaysia.
 Photo by: Bernard Dupont.
 

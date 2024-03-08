@@ -4,18 +4,6 @@ title: "Why Language Science Needs Ecological Validity"
 # For pinned posts, add the following variable to the post's front matter:
 # pinned: true
 ---
-<!--
-<div class="message">
-  <i>A priori</i> it would seem a generally valid thesis that for very <i>process</i> there is a corresponding <i>system</i>... It must be assumed that any process can be analyzed into a limited number of elements recurring in various combinations. Then... it should be possible to order these elements into classes according to their <b>possibilities of combination</b>. And it should be further possible to set up a <b>general and exhaustive calculus of the possible combinations</b>.
-  <cite>— Louis Hjelmslev, Prolegomena to a Theory of Language (1943/1961, p. 9)</cite>
-</div>
--->
-
-<div class="message">
-  <i>A priori</i> it would seem a generally valid thesis that for very <i>process</i> there is a corresponding <i>system</i>.
-  <cite>— Louis Hjelmslev, Prolegomena to a Theory of Language (1943/1961, p. 9)</cite>
-</div>
-
 Recently I read a <a href="https://omer.lingsite.org/blogpost-ecological-validity/" target="_blank">blog post</a> by the syntactician Omer Preminger about why ecological validity is undesirable and “would undermine research into the structure of human language.” Indeed, Preminger argues that when scientists are confronted with complex natural phenomena that arise out of messy interactions between multiple factors, the typical approach has been to simplify matters by isolating or eliminating factors through highly artificial setups. 
 
 An example of one such setup in physics would be the Large Hadron Collider in Switzerland, which shoots beams of particles at high speed into each other such that they collide. Particle physicists study the outcomes of such collisions. Implicitly then, the analogue in linguistics might be something like acceptability judgement tasks or controlled psycholinguistic experiments.

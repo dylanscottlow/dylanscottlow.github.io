@@ -18,6 +18,8 @@ title: "AI vs Linguistics: Thoughts on LLMs as theories of language"
 
 In <a href="https://en.wikipedia.org/wiki/Louis_Hjelmslev" target="_blank" rel="noopener noreferrer">Hjelmslev's</a> well-known but little read <i>Prolegomena</i>, arguments were put forth for the advancement of linguistics as an independent, formal science distinct from the older tradition known as philology. The goal was a theory of language, one that described not languages but the systems underlying languages. 
 
+<!-- more -->
+
 In a way this echoes <a href="https://www.persee.fr/doc/intel_0769-4113_2011_num_56_2_1146" target="_blank" rel="noopener noreferrer">Chomsky's influential classic position</a> that a theory of language ought to address the "internal system that determines an infinite range of structured expressions along with their semantic and phonetic interpretations". For Chomsky, deciding if a body of knowledge qualifies as a theory of language is simple. If it does not describe such an internal generative system, then the answer is no, it is not a theory of language. If it does, then the answer is a yes.
 
 Now, the world is rocked by the introduction of GPT-3, a <i>large language model</i> (LLM) that seems to have finally cracked the language code. And rightfully so. Anyone who uses ChatGPT, the most popular implementation of GPT-3, is bound to be impressed by the model's uncannily human-like powers of comprehension and response. Unsurprisingly, the remarkable performance of GPT-3 and other LLMs has caused quite a stir in the academic linguistics community. 

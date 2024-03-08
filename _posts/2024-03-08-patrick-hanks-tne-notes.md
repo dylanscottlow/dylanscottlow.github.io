@@ -13,9 +13,9 @@ title: "Patrick Hanks’ Theory of Norms and Exploitations: Some Personal Notes"
 *I arrive at a tentative conceptualisation of this problem using Hanks’ terms at the end, though by no means is this conclusive. But I think it’s a good first step to build off of. I also end with some interesting quotes from Hanks’ chapter.*
 
 ---
-
+<!--excerpt-->
 All grammatical sentences of standard English are also potential grammatical sentences of Singlish. That is, any well-formed standard English sentence (e.g., 1a) can also be judged to be a well-formed Singlish sentence. This is a problem, since it is then easier to distinguish sentences of Singlish (which may be exclusive to Singlish, e.g., 1b) from sentences of standard English but not the other way around — an asymmetry.
-
+<!--excerpt-->
 1a. *There is a house on the hill over there.* (Standard English or Singlish)
 1b. *Over there the hill got house.* (Singlish only)
 

@@ -4,20 +4,20 @@ title: "Patrick Hanks’ Theory of Norms and Exploitations: Some Personal Notes"
 # For pinned posts, add the following variable to the post's front matter:
 # pinned: true
 ---
-**Preamble:** *The following consists of a summary/personal interpretation of my reading of Chapter 1 “Words and Meanings: The Need for a New Approach” from Patrick Hanks’ monograph **Lexical Analysis: Norms and Exploitations** (2013: <a href="https://direct.mit.edu/books/book/2981/Lexical-AnalysisNorms-and-Exploitations" target="blank">The MIT Press</a>).
+**Preamble:** *The following consists of a summary/personal interpretation of my reading of Chapter 1 “Words and Meanings: The Need for a New Approach” from Patrick Hanks’ monograph ***Lexical Analysis: Norms and Exploitations*** (2013: <a href="https://direct.mit.edu/books/book/2981/Lexical-AnalysisNorms-and-Exploitations" target="blank">The MIT Press</a>).*
 
-Hanks, a lexicographer who worked on the Collins COBUILD dictionaries, presents an interesting corpus-informed theory of language that dispels with binary categories such as grammaticality and replaces them with continuous variables (categories of degree) which can be quantified with the help of native speaker corpora.
+*Hanks, a lexicographer who worked on the Collins COBUILD dictionaries, presents an interesting corpus-informed theory of language that dispels with binary categories such as grammaticality and replaces them with continuous variables (categories of degree) which can be quantified with the help of native speaker corpora.*
 
-I develop an understanding of Hanks’ framework by thinking through a core problem in Singapore English research—how to conceptualise the fuzzy boundary between Singlish and standard English (something I was thinking about after a recent conversation with <a href="https://z-n-huang.github.io/" target="blank">Nick Huang</a> at the National University of Singapore).
+*I develop an understanding of Hanks’ framework by thinking through a core problem in Singapore English research—how to conceptualise the fuzzy boundary between Singlish and standard English (something I was thinking about after a recent conversation with <a href="https://z-n-huang.github.io/" target="blank">Nick Huang</a> at the National University of Singapore).*
 
-I arrive at a tentative conceptualisation of this problem using Hanks’ terms at the end, though by no means is this conclusive. But I think it’s a good first step to build off of. I also end with some interesting quotes from Hanks’ chapter.*
+*I arrive at a tentative conceptualisation of this problem using Hanks’ terms at the end, though by no means is this conclusive. But I think it’s a good first step to build off of. I also end with some interesting quotes from Hanks’ chapter.*
 
 ---
 
 All grammatical sentences of standard English are also potential grammatical sentences of Singlish. That is, any well-formed standard English sentence (e.g., 1a) can also be judged to be a well-formed Singlish sentence. This is a problem, since it is then easier to distinguish sentences of Singlish (which may be exclusive to Singlish, e.g., 1b) from sentences of standard English but not the other way around — an asymmetry.
 
-1. a. *There is a house on the hill over there.* (Standard English or Singlish)
-   b. *Over there the hill got house.* (Singlish only)
+1a. *There is a house on the hill over there.* (Standard English or Singlish)
+1b. *Over there the hill got house.* (Singlish only)
 
 However, perhaps attempting to capture the set of all possible grammatical sentences (following Chomsky, 1957) is the wrong approach. As Hanks (2013, p. 7) S remarks, “Linguists who seek to explain all possibilities in a single step have failed, will fail, and are bound to fail.” The solution which Hanks advocates for, then, is to focus on probabilities rather than discrete categorisations of what is grammatical and what is not. This is one of the fundamental ideas underlying Hanks’ Theory of Norms and Exploitations (TNE).
 

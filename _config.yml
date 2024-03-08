@@ -27,3 +27,6 @@ plugins:
   - jekyll-paginate
 
 github: [metadata]
+
+#Custom blog post excerpt separator as recommended by ChatGPT
+excerpt_separator: "<!-- more -->"

@@ -12,7 +12,7 @@ title: "AI vs Linguistics: Thoughts on LLMs as theories of language"
 -->
 
 <div class="message">
-  <i>A priori</i> it would seem a generally valid thesis that for very <i>process</i> there is a corresponding <i>system</i>.
+  <i>A priori</i> it would seem a generally valid thesis that for every <i>process</i> there is a corresponding <i>system</i>.
   <cite>— Louis Hjelmslev, Prolegomena to a Theory of Language (1943/1961, p. 9)</cite>
 </div>
 

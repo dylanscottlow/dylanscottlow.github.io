@@ -6,7 +6,13 @@ order: 2
 
 ### Conference Presentations
 
-* <p class="citation-list"><b>Low, Dylan Scott</b> and Wong Kah Fai. (2022). Cognitive phonology, relational networks, and optimality theory: Analysing consonant phonotactics in Malaysian and Singaporean colloquial English [Poster presentation]. <i>23rd National Conference on Linguistics (NCL-23)</i>, Taipei, Taiwan. <a href="http://dx.doi.org/10.13140/RG.2.2.21837.72169/1" target="_blank" rel="noopener noreferrer">http://dx.doi.org/10.13140/RG.2.2.21837.72169/1</a> <i class="ai ai-open-access"></i></p>
+* <p class="citation-list"><b>Low, Dylan Scott</b>. (accepted; 1–5 Jul, 2024). The syntax and semantics of 'where got' in Singapore Colloquial English: A case for both compositionality and idiomaticity [Conference session]. <i>49th International Systemic Functional Congress (ISFC-49)</i>, Sydney, Australia.</p>
+
+* <p class="citation-list"><b>Low, Dylan Scott</b>. (accepted; 3–4 May, 2024). Lambian neurocognitive linguistics as mathematical neuropsychology: Some proposed innovations to the theory [Poster presentation]. <i>11th Conference on Language, Discourse, and Cognition (CLDC-11)</i>, Taipei, Taiwan.</p>
+
+* <p class="citation-list">Fu, Stephanie Pei-Yun and <b>Dylan Scott Low</b>. (10–12 Oct, 2023). Exploring syntactic optimality in code-mixing: An empirical study of Mandarin-English bilinguals in Taiwan [Conference session]. <i>56th International Conference on Sino-Tibetan Langauges and Linguistics (ICSTLL-56)</i>, Bangkok, Thailand. <a href="https://dx.doi.org/10.13140/RG.2.2.24814.79687" target="_blank" rel="noopener noreferrer">https://dx.doi.org/10.13140/RG.2.2.24814.79687</a> <i class="ai ai-open-access"></i></p>
+
+* <p class="citation-list"><b>Low, Dylan Scott</b> and Wong Kah Fai. (28–29 Oct, 2022). Cognitive phonology, relational networks, and optimality theory: Analysing consonant phonotactics in Malaysian and Singaporean colloquial English [Poster presentation]. <i>23rd National Conference on Linguistics (NCL-23)</i>, Taipei, Taiwan. <a href="http://dx.doi.org/10.13140/RG.2.2.21837.72169/1" target="_blank" rel="noopener noreferrer">http://dx.doi.org/10.13140/RG.2.2.21837.72169/1</a> <i class="ai ai-open-access"></i></p>
   
 ### Journal Articles
 

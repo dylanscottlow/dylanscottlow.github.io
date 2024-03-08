@@ -23,3 +23,7 @@ order: 2
 * <p class="citation-list">Day, Michael James, Sara Du Preez, <b>Dylan Scott Low</b>, and Merisa Skulsuthavong. (2021). 'Reinventing' Thai universities: Ajarn, Thailand 4.0 & cross-cultural communication implications for international academia. <i>Journal of Mass Communication</i>, <i>9</i>(1), pp. 102-144. <a href="https://so03.tci-thaijo.org/index.php/masscomm/article/view/246159" target="_blank" rel="noopener noreferrer">https://so03.tci-thaijo.org/index.php/masscomm/article/view/246159</a> <i class="ai ai-open-access"></i></p>
 
 * <p class="citation-list"><b>Low, Dylan Scott</b>, Myat Thazin Aung, and Michael James Day. (2020). Cognitive sociology: Developing the ‘diversity pathways’ model in cultural neuroscience. <i>Human Behavior, Development and Society</i>, <i>21</i>(4), pp. 66-77. <a href="https://so01.tci-thaijo.org/index.php/hbds/article/view/243179" target="_blank" rel="noopener noreferrer">https://so01.tci-thaijo.org/index.php/hbds/article/view/243179</a> <i class="ai ai-open-access"></i></p>
+
+### Book Chapters
+
+* <p class="citation-list">Day, Michael James, <b>Dylan Scott Low</b>, and Merisa Skulsuthavong. (in press). Technology enhanced learning & teaching tensions in Thailand's higher education: Digital divergence vs. binary thinking during online education in the COVID-19 pandemic. In C. Yamahata (Ed.), <i>Social transformations in India, Myanmar, and Thailand</i> (vol. 3). Singapore: Palgrave Macmillan.</p>

@@ -6,6 +6,8 @@ title: "Why Language Science Needs Ecological Validity"
 ---
 Recently I read a <a href="https://omer.lingsite.org/blogpost-ecological-validity/" target="_blank">blog post</a> by the syntactician Omer Preminger about why ecological validity is undesirable and “would undermine research into the structure of human language.” Indeed, Preminger argues that when scientists are confronted with complex natural phenomena that arise out of messy interactions between multiple factors, the typical approach has been to simplify matters by isolating or eliminating factors through highly artificial setups. 
 
+<!-- more -->
+
 An example of one such setup in physics would be the Large Hadron Collider in Switzerland, which shoots beams of particles at high speed into each other such that they collide. Particle physicists study the outcomes of such collisions. Implicitly then, the analogue in linguistics might be something like acceptability judgement tasks or controlled psycholinguistic experiments.
 
 There’s nothing wrong with this approach. Preminger is right that this is what science does to study the structure of some naturally-occurring phenomenon. However, we must be careful here not to get confused. Controlling and isolating factors is vital to rigourous scientific experimentation, sure. But is that in any way mutually exclusive with ecological validity? Preminger along with many other linguists seem to assume yes. Yet, that essentially reduces ecological validity to the claim that we should not control or isolate factors before investigating a phenomenon. This is, of course, a mischaracterisation.

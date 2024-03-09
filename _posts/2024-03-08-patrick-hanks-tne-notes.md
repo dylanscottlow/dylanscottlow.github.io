@@ -22,7 +22,7 @@ All grammatical sentences of standard English are also potential grammatical sen
 &emsp;1a. *There is a house on the hill over there.* (Standard English or Singlish)<br>
 &emsp;1b. *Over there the hill got house.* (Singlish only)
 
-However, perhaps attempting to capture the set of all possible grammatical sentences (following Chomsky, 1957) is the wrong approach. As Hanks (2013, p. 7) S remarks, “Linguists who seek to explain all possibilities in a single step have failed, will fail, and are bound to fail.” The solution which Hanks advocates for, then, is to focus on probabilities rather than discrete categorisations of what is grammatical and what is not. This is one of the fundamental ideas underlying Hanks’ Theory of Norms and Exploitations (TNE).
+However, perhaps attempting to capture the set of all possible grammatical sentences (following Chomsky, 1957) is the wrong approach. As Hanks (2013, p. 7) sharply remarks, “Linguists who seek to explain all possibilities in a single step have failed, will fail, and are bound to fail.” The solution which Hanks advocates for, then, is to focus on probabilities rather than discrete categorisations of what is grammatical and what is not. This is one of the fundamental ideas underlying Hanks’ Theory of Norms and Exploitations (TNE).
 
 Through TNE, Hanks offers a two-step process as an alternative. First, identify the normal, central, and typical uses from a native speaker corpus. This is an approach that follows from Rosch’s prototype theory in cognitive psychology (also prominent in Cognitive Linguistics), where some instances of a conceptual category are more prototypical than others. Hence, prototypicality (or simply, “typicality”) is a quantifiable property.
 

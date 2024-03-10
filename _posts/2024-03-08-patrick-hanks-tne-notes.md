@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank's Theory of Norms and Exploitations: Some Personal Notes"
+title: "Hanks' Theory of Norms and Exploitations Part 1: Some Personal Notes"
 # For pinned posts, add the following variable to the post's front matter:
 # pinned: true
 excerpt_separator: "<!--more-->" #just for good measure

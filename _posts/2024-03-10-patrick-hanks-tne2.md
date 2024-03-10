@@ -54,7 +54,9 @@ Importantly, none of these above semantic components are necessary conditions to
 <div class="message">
   Sometimes a bank is an institution; sometimes it is the building that hosues the institution; sometimes it is the people within the institution who make the decisions and transact its business.
   <cite>— Hanks, 2013, p. 69</cite>
+</div>
 
+<div class="message">
   The notion that something is at one and the same time an institution and a building...may seem incompatible or incoherent, but that only means that these two components are never activated simultaneously (except in puns...and certain other kinds of word play).
   <cite>— Hanks, 2013, p. 71</cite>
 </div>

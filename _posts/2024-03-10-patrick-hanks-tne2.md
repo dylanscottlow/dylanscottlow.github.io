@@ -73,13 +73,13 @@ Hanks views the meaning potential of verbs in terms of semantic valency structur
 
 As an example, in Hanks (<a href="https://www.researchgate.net/publication/228879356_The_Syntagmatics_of_Metaphor_and_Idiom" target="blank">*The Syntagmatics of Metaphor and Idiom*</a>, 2004, p. 4), Hanks gives the semantic valence of the verb *toast* as follows:
 
-&emsp;1. [[Person]] toast [[Food = Bread | Nuts]]
+&emsp;1. [[Person]] toast [[Food = Bread \| Nuts]]
 
 This describes the primary meaning of *toast* as an activity done by a person to a food item (bread or nuts) such that the item is 'made brown and crisp by exposure to radiant heat' (2004, p. 4). In other words, to *toast bread* or to *toast nuts*.
 
 The verb *toast* also has a less salient meaning as follows (where "POSDET" stands for "possessive determiner"):
 
-&emsp;2. [[Person 1]] toast {[[Person 2] | [Achievement]] | {[POSDET] memory}}
+&emsp;2. [[Person 1]] toast {[[Person 2] \| [Achievement]] \| {[POSDET] memory}}
 
 This is the sense of *toast* when we speak of *toasting* a significant person, achievement, or person's memory. It is to 'celebrate by raising a glass containing alcholic liquor and then drinking some' (Hanks, 2004, p. 4).
 
@@ -119,24 +119,24 @@ Therefore, much beyond the immediate arguments of a verb are require to discern 
 
 Consider the following examples from the BNC, as reported by Hanks (2013, p. 138):
 
-&emsp;4a. Jani **banked** £60,000 through successful libel actions against Options magazine and the London Evening Standard.
-&emsp;4b. She is believed to have ***banked** £10 million since being booted out of Downing Street two years ago.
-&emsp;4c. The plane **banked**, and he pressed his face against the cold window.
+&emsp;4a. Jani **banked** £60,000 through successful libel actions against Options magazine and the London Evening Standard.<br>
+&emsp;4b. She is believed to have ***banked** £10 million since being booted out of Downing Street two years ago.<br>
+&emsp;4c. The plane **banked**, and he pressed his face against the cold window.<br>
 &emsp;4d. I **banked** the aircraft steeply and turned.
 
 The way in which Hanks maps semantic structure onto syntax is rather simple. In 4a–4d, three distinct meanings of the verb *to bank* can be teased out. Similar to the discussion on *to toast* above, we can disambiguate these meanings of *to bank* on the basis of its arguments, particular the semantic types of the arguments.
 
 For 4a and 4b, which use *to bank* in a financial sense, we expect that the subject be of the semantic type [[Human]] and the object of the semantic type [[Money]]. This is shown as a syntactically-annotated valency structure in 5a. Additionally, Hanks provides the corresponding impliciature for 5a in 5b, as what might appear in a dictionary entry for this sense of *to bank*.
 
-&emsp;5a. [Subject [Human]] **bank** [Object [Money]]
+&emsp;5a. [Subject [Human]] **bank** [Object [Money]]<br>
 &emsp;5b. Implicature: [[Human]] deposits or invests [[Money]] in a bank or other financial institution for safekeeping
 
 For 4c, we find the appropriate semantic valency structure and implication in 6a and 6b respectively. Likewise, 7a and 7b describe 4d.
 
-&emsp;6a. [Subject [Aircraft]] **bank** [NO OBJECT]
+&emsp;6a. [Subject [Aircraft]] **bank** [NO OBJECT]<br>
 &emsp;6b. Implicature: (Pilot of) [[Aircraft]] raises one wing higher than the other in order to change direction
 
-&emsp;7a. [Subject [Human]] **bank** [Object [Aircraft]]
+&emsp;7a. [Subject [Human]] **bank** [Object [Aircraft]]<br>
 &emsp;7b. Implicature: [[Human = Pilot]] causes [[Aircraft]] to raise one wing higher than the other in order to change direction
 
 Hanks (2013, p.138) makes a point that the "clause structure of the implicature does not have to be identical to the clause structure of the pattern itself". By "pattern", Hanks seems to refer to the semantic valency structure. Hanks' point, then, is illustrated by the relation between 61 and 6b, wherein the subject of 6a is of the semantic type [[Aircraft]] but the subject of 6b the pilot of the aircraft, and thus technically of the semantic type [[Human]].

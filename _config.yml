@@ -19,8 +19,8 @@ author:
   name:           "Dylan Scott Low Y.J."
   url:            https://dylanscottlow.github.io
 
-#paginate:         0 # Originally 3, which limited number of blog posts to 3 and additional posts would spillover to a new Blog page
-#paginate_path: "/blog/:num/"
+paginate:         10 # Originally 3, which limited number of blog posts to 3 and additional posts would spillover to a new Blog page
+paginate_path: "/blog/:num/"
 plugins:
   - jekyll-feed
   - jekyll-gist

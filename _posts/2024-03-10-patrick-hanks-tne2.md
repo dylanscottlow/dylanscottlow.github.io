@@ -87,7 +87,7 @@ Importantly, this example of *toast* demonstrates a key tendency: that we can te
 
 However, it is also important to acknowledge that we cannot tell **all** about a verb's meaning just based on its arguments. Hanks (2013) uses the polysemous English verb *check* as an example. Considering two senses of *check*, either as 'to inspect' or 'to cause to stop or slow down', Hanks (2013, p. 80) shows us the following excerpt from a text in the British National Corpus (BNC):
 
->3a. He soon returned to the Western Desert, where, between May and September, he was involved in desperate rearguard actions—the battle of Gazala, followed by Alamein in July, when Auchinleck **checked** Rommel, who was then within striking distance of Alexandria.
+&emsp;3a. He soon returned to the Western Desert, where, between May and September, he was involved in desperate rearguard actions—the battle of Gazala, followed by Alamein in July, when Auchinleck **checked** Rommel, who was then within striking distance of Alexandria.
 
 It is evident that *checked* in 3a invokes the 'to cause to stop or slow down' meaning, but this information is not inferrable on the basis of the arguments of *checked*, which are the names of the World War II generals <a href="https://en.wikipedia.org/wiki/Claude_Auchinleck" target="blank">Claude Auchinleck</a> and <a href="https://en.wikipedia.org/wiki/Erwin_Rommel" target="blank">Erwin Rommel</a>. 
 

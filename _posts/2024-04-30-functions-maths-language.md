@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Functions in Maths and in Language"
+title: "The Notion of Functions in Maths and in Language"
 # For pinned posts, add the following variable to the post's front matter:
 # pinned: true
 ---

@@ -4,7 +4,6 @@ title: "Functions in Maths and in Language"
 # For pinned posts, add the following variable to the post's front matter:
 # pinned: true
 ---
-**Functions**
 
 In everyday plain English, the word “function” is understood to be roughly synonymous with words like “goal” or “purpose”. For example, the function of a fruit knife is to cut fruit. 
 
@@ -14,7 +13,7 @@ In linguistics, “function” is usually understood to have this kind of meanin
 
 In mathematics and computer science, the word “function” seems to have a somewhat different meaning. The introduction of the term “function” to mathematics is credited to Gottfried Wilhelm Leibniz, who first used it in 1673 \[<a href = "https://www.ms.uky.edu/~droyster/courses/fall06/PDFs/Chapter05.pdf" target = "blank">1</a>\]. In maths, a function is understood as a mapping or relationship between the elements of two sets. Some use the metaphor of a black-box machine to describe a function: it takes an element of one set as input, performs some transformation upon it, and gives as output an element of another set.
 
-Let us consider an example from set theory. Given x ∈ ℝ (meaning x is a number in the set ℝ, where ℝ is the infinite set of all real numbers), the function f(x): x + 1, then, is a mapping from any number x within ℝ to the number that is greater than it by 1. Here, the function takes x as input, adds 1 to it, and then returns the result as output. In this case, both the input and output are members of the set ℝ, but it is possible that they could be members of different subsets of ℝ. For example, if x ∈ X where X ⊆ ℝ {x | x is an even number and x > 0} (meaning X is a subset of ℝ where for any member x of X, x is an even number greater than 0) and if y ∈ Y where Y ⊆ ℝ {y | y is an odd number and x > 1} (meaning Y is a subset of ℝ where for any member y of Y, y is an even number greater than 1), then the input for f(x): x + 1 is a member of the set X and the output (that is, “x + 1”) is a member of the set Y. Thus, f(x): x + 1 is a mapping from X to Y.
+Let us consider an example from set theory. Given x ∈ ℝ (meaning x is a number in the set ℝ, where ℝ is the infinite set of all real numbers), the function f(x): x + 1, then, is a mapping from any number x within ℝ to the number that is greater than it by 1. Here, the function takes x as input, adds 1 to it, and then returns the result as output. In this case, both the input and output are members of the set ℝ, but it is possible that they could be members of different subsets of ℝ. For example, if x ∈ X where X ⊆ ℝ {x \| x is an even number and x > 0} (meaning X is a subset of ℝ where for any member x of X, x is an even number greater than 0) and if y ∈ Y where Y ⊆ ℝ {y \| y is an odd number and x > 1} (meaning Y is a subset of ℝ where for any member y of Y, y is an even number greater than 1), then the input for f(x): x + 1 is a member of the set X and the output (that is, “x + 1”) is a member of the set Y. Thus, f(x): x + 1 is a mapping from X to Y.
 
 **The Shared Meaning of “Function” in Maths and Linguistics**
 

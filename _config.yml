@@ -6,8 +6,8 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Dylan Scott Low Y.J.
-tagline:          "Cognitive Science of Language"
+title:            Dylan Scott Low
+tagline:          "CogSci"
 # The description is used in the meta description tag (_includes/head.html).
 # If you want to use it in the sidebar, uncomment its code under the tagline
 # in _includes/sidebar.html
